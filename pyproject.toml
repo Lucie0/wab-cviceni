@@ -1,0 +1,12 @@
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "LP",email = "xpacako1@mendelu.cz"},
+]
+dependencies = []
+requires-python = ">=3.11"
+readme = "README.md"
+license = {text = "MIT"}
+
