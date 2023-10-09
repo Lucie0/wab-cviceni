@@ -1,7 +1,7 @@
 [project]
-name = ""
-version = ""
-description = ""
+name = "Hello_service"
+version = "1.0.0"
+description = "Simple hello-world service"
 authors = [
     {name = "LP",email = "xpacako1@mendelu.cz"},
 ]
